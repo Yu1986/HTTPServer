@@ -23,6 +23,7 @@ Supports GET and POST method, use macros to generate dynamic page to show the re
 ## Run
 - edit http.conf to set your http root dir and http server port
 - "java -jar MyHttpServer.jar" to start server
+- with default configs, please type http://localhost:1234 in your broswer to view sample website
 - "Ctrl-C" to send signal to stop server
 
 ## Contribution
