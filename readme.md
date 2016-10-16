@@ -31,7 +31,7 @@ Supports GET and POST method, use macros to generate dynamic page to show the re
 - Class and Function definiton are borrowed from com.sun.net.httpserver, but implementation are all my original work.
 
 ## Reference
-- [Java Doc/HttpServer](https://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/com/sun/net/httpserver/HttpContext.html)
+- [Java Doc/HttpServer](https://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/com/sun/net/httpserver/HttpServer.html)
 - [Java Doc/HttpContext](https://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/com/sun/net/httpserver/HttpContext.html)
 - [Java Doc/httpserver.Headers](https://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/com/sun/net/httpserver/Headers.html)
 - [Java Doc/URLDecoder](https://docs.oracle.com/javase/7/docs/api/java/net/URLDecoder.html)
